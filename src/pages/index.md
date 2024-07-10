@@ -5,14 +5,14 @@ image: /img/IMG_1148.jpeg
 heading: This is Gary's World
 subheading: A look into the world from my eyes 
 mainpitch:
-  title: Information about my life and things I'm interested in
+  title: Things I'm interested in
   description: >
-    Gary's World is an independent publication launched in May 2023 by Gary Dohmeier II. If you like it great, please read on. If you don't like and I'm sorry thats the case, there is alot of other content on the interwebs to try. I will try to keep up the site and add new content as time permits. Thank you!.
+    Gary's World is an independent publication launched in May 2023 by Gary Dohmeier II. If you like 
+    it great, please read on. If you don't like and I'm sorry thats the case, there is alot of other 
+    content on the interwebs to try. I will try to keep up the site and add new content as time 
+    permits. Thank you.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Gary's World is an independent publication launched in May 2023 by Gary Dohmeier II.
 intro:
   blurbs:
     - image: /img/coffee.png
