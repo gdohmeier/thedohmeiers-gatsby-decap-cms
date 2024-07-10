@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Gary's World
 image: /img/IMG_1148.jpeg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: This is Gary's World
+subheading: A look into the world from my eyes 
 mainpitch:
   title: Why Super Duper Kaldi
   description: >
