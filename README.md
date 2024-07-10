@@ -1,4 +1,6 @@
-# thedohmeiers.com is a Gatsby + Decap CMS site
+# thedohmeiers.com is a personal website build on Gatsby + Decap CMS
+
+Site url: https://thedohmeiers.com
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
 
