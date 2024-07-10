@@ -13,4 +13,4 @@ By signing up, you'll get access to the full archive of everything that's been p
 Join in the community chats with other subscribers who share the same interests.
 
 ### Start your own site like this 
-Enjoying the experience? Get started for free and set up your very own site like this using this github template site. (). This site is edited on github and hosted on Netlify, free.
+Enjoying the experience? Get started for free and set up your very own site like this using this [github template site](https://github.com/decaporg/gatsby-starter-decap-cms). This site is edited on github and hosted on Netlify, free.
