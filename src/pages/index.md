@@ -5,12 +5,9 @@ image: /img/IMG_1148.jpeg
 heading: This is Gary's World
 subheading: A look into the world from my eyes 
 mainpitch:
-  title: Why Super Duper Kaldi
+  title: Information about my life and things I'm interested in
   description: >
-    Super Duper Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Gary's World is an independent publication launched in May 2023 by Gary Dohmeier II. If you like it great, please read on. If you don't like and I'm sorry thats the case, there is alot of other content on the interwebs to try. I will try to keep up the site and add new content as time permits. Thank you!.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -20,51 +17,30 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Ideas or subject matter area #1.  
     - image: /img/coffee.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Ideas or subject matter area #2.  
+    - image: /img/coffee.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Ideas or subject matter area #3.  
+    - image: /img/coffee.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Ideas or subject matter area #4.  
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Info about the types of content
 main:
-  heading: Great coffee with no compromises
+  heading: Interesting topics
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    General information about topics.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: name of image is products-grid3.jpg
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: name of image is products-grid2.jpg
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: name of image is products-grid1.jpg
     image: /img/products-grid1.jpg
 ---
