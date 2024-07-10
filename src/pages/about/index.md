@@ -1,19 +1,16 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About the site
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### About this site
+Gary's World is an independent publication launched in May 2023 by Gary Dohmeier II. Everything on the site is simply my opinions or stuff I am interested in. There is no subscription model at this point. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Access all areas
+By signing up, you'll get access to the full archive of everything that's been published before and everything that's still to come. Your very own private library.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Meet people like you
+Join in the community chats with other subscribers who share the same interests.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Start your own site like this 
+Enjoying the experience? Get started for free and set up your very own site like this using this github template site. (). This site is edited on github and hosted on Netlify, free.
