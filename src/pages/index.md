@@ -3,35 +3,43 @@ templateKey: index-page
 title: Gary's World
 image: /img/IMG_1148.jpeg
 heading: Things I'm interested in
-subheading: A look into the world from my eyes 
+subheading: A look into the world from my eyes
 mainpitch:
   title: This is Gary's World
   description: >
-    Gary's World is an independent publication launched in May 2023 by Gary Dohmeier II. 
-description: >-
-  If you like it great, please read on. If you don't like and I'm sorry thats the case, there 
-  is alot of other content on the interwebs to try. I will try to keep up the site and add new 
-  content as time permits. Thank you.
+    Gary's World is an independent publication launched in May 2023 by Gary
+    Dohmeier II. 
+description: If you like it great, please read on. If you don't like and I'm
+  sorry thats the case, there  is alot of other content on the interwebs to try.
+  I will try to keep up the site and add new  content as time permits. Thank
+  you.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
+      text: |
         Ideas or subject matter area #1.  
     - image: /img/coffee.png
-      text: >
+      text: |
         Ideas or subject matter area #2.  
     - image: /img/coffee.png
-      text: >
+      text: |
         Ideas or subject matter area #3.  
     - image: /img/coffee.png
-      text: >
+      text: |
         Ideas or subject matter area #4.  
-  heading: What we offer
+  heading: My old site is being migrated here…
   description: >
-    Info about the types of content
+    My old site https://garydohmeier.com is a from a jamstack ghost & gatsby
+    starter here: https://ghost.org/docs/jamstack/gatsby/.
+
+
+    I’m currently migrating all the content here.
+
+
+    This site is build with gatsby, decapCMS, Netlify and GitHub and I can run and edit it from a web browser completely free.  See this page https://decapcms.org/docs/start-with-a-template/ for how I did it!
 main:
   heading: Interesting topics
-  description: >
+  description: |
     General information about topics.
   image1:
     alt: name of image is products-grid3.jpg
