@@ -58,11 +58,11 @@ main:
     General information about topics.
   image1:
     alt: name of image is products-grid3.jpg
-    image: https://garydohmeier.com/
+    image: /img/safari-pinned-tab.svg
   image2:
     alt: name of image is products-grid2.jpg
-    image: https://garydohmeier.com/
+    image: /img/safari-pinned-tab.svg
   image3:
     alt: name of image is products-grid1.jpg
-    image: https://garydohmeier.com/
+    image: /img/safari-pinned-tab.svg
 ---
