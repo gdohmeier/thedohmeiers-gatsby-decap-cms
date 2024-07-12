@@ -58,7 +58,7 @@ main:
     General information about topics.
   image1:
     alt: name of image is products-grid3.jpg here
-    image: /img/safari-pinned-tab.svg
+    image: /img/products-grid3.jpg
   image2:
     alt: name of image is products-grid2.jpg
     image: /img/safari-pinned-tab.svg
