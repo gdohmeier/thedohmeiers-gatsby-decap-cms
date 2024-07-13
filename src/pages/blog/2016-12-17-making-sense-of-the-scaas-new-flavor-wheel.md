@@ -19,7 +19,41 @@ In this post I implement a simple tic-tac-toe game with javascript that can be p
 
 Repost to new site.
 
-```html
+`<html lang="en">`
+
+`<head>`
+
+`<style>`
+
+`body {`
+
+`font-family: Arial, sans-serif;`
+
+`text-align: center;`
+
+`}`
+
+`h1 {`
+
+`margin-top: 30px;`
+
+`}`
+
+`<body>`
+
+`<h1>Tic-Tac-Toe</h1>`
+
+`</body>`
+
+`</style>`
+
+`</head>`
+
+`</html>`
+
+``
+
+```javascript
 <html lang="en">
     <head>
         <title>Tic-Tac-Toe</title>
