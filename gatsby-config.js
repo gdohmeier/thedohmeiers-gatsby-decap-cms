@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "thedohmeiers.com website"
-    description:
-      "This repo contains an thedohmeiers website that is built with Gatsby and Netlify CMS and it follows the JAMstack architecture.",
+    title: "thedohmeiers.com website",
+    description: "This repo contains an thedohmeiers website that is built with Gatsby and Netlify CMS and it follows the JAMstack architecture.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
