@@ -22,6 +22,7 @@ const Navbar = () => {
             className={`navbar-burger burger ${isActive && "is-active"}`}
             aria-expanded={isActive}
             onClick={() => setIsActive(!isActive)}
+            aria-label="DerBurger menu"
           >
             <span />
             <span />
@@ -46,6 +47,11 @@ const Navbar = () => {
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/blog">
               Blog
+            </Link>
+          </li>
+          <li className="navbar-item" style={{ padding: "0px" }}>
+            <Link className="navbar-item" to="/games">
+              Games
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>

@@ -13,7 +13,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Features
 
 - A simple landing page with blog functionality built with Decap CMS
-- Editable Pages: Landing, About, Product, Blog-Collection and Contact page with Netlify Form support
+- Editable Pages: Landing, About, Games, Blog-Collection and Contact page with Netlify Form support
 - Create Blog posts from decap CMS
 - Tags: Separate page for posts under each tag
 - Basic directory organization
@@ -79,7 +79,7 @@ import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
-CMS.registerPreviewTemplate("products", ProductPagePreview);
+CMS.registerPreviewTemplate("games", ProductPagePreview);
 CMS.registerPreviewTemplate("blog", BlogPostPreview);
 ```
 
