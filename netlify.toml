@@ -3,7 +3,6 @@
   command = "npm run build"
 [build.environment]
   NODE_VERSION = "20.9.0"
-  YARN_VERSION = "2.4.3"
+  YARN_VERSION = "1.22.19"
   YARN_FLAGS = ""
-
 
