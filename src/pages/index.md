@@ -30,7 +30,7 @@ intro:
         code. https://docs.github.com/en
     - text: Netlify is a static website hosting service.  It integrates with GitHub to
         build this site as well as provides hosting. https://www.netlify.com/
-      image: /img/img_0470.webp
+      image: /img/img_0470.jpeg
   heading: My old site is being migrated here…
   description: >
     My old site garydohmeier.com is a from a jamstack ghost and gatsby
