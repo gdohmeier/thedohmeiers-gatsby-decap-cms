@@ -1,4 +1,3 @@
-
 ---
 templateKey: blog-post
 title: Countdown to retirement

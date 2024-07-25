@@ -1,4 +1,3 @@
-
 ---
 templateKey: blog-post
 title: Coups and Common Sense
