@@ -1,37 +1,38 @@
 ---
-title: Game
-image: https://media.giphy.com/media/94DBMnpVEbJLy/giphy.gif
-heading: This page will be for games I develop
-description: A page to provide games that can be run in your browser.
+templateKey: 'games-page'
+path: /games
+title: My Games
+image: /img/gamepic.png
+heading: Games I have developed
+description: >-
+    This is the description.
 intro:
+  blurbs:
+    - image: /img/coffee.png
+      text: >
+        This is the description.
   heading: Test
   description: Test desc
-  blurbs:
-    - image: /img/apple-touch-icon.png
-      text: Test
 main:
-  heading: "Test main "
+  heading: Test main
   description: Test main description
   image1:
     image: /img/apple-touch-icon.png
     alt: Test
-  image2:
-    image: /img/apple-touch-icon.png
-    alt: Test
-  image3:
-    image: /img/apple-touch-icon.png
-    alt: Test
 testimonials:
-  - quote: Test quote
-    author: Gary
+  - author: Gary
+    quote: >-
+      yada yada yada.
 full_image: /img/apple-touch-icon.png
 pricing:
-  heading: Na
-  description: Na
+  heading: na
+  description: >-
+    yada yada yada.
   plans:
-    - plan: Test
-      price: Test
-      description: Tes
+    - description: test.
       items:
-        - Test
+        - item1
+        - item2
+      plan: Small
+      price: ??
 ---
