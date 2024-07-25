@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Coups and Common Sense
 date: 2024-07-24T20:20:00.000Z
 description: Content from the old web site.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/img_0474.jpeg
 tags:
   - Commentary
