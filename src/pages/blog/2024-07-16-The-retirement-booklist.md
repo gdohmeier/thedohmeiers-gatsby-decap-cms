@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: The retirement booklist
 date: 2024-07-16T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/books1.png
 description: I have begun to read in earnest again...
+featuredpost: true
+featuredimage: /img/books1.png
 tags:
   - books
 ---
