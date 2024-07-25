@@ -1,5 +1,5 @@
 ---
-title: Games
+title: Game
 image: https://media.giphy.com/media/94DBMnpVEbJLy/giphy.gif
 heading: This page will be for games I develop
 description: A page to provide games that can be run in your browser.
