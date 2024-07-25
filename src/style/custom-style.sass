@@ -102,3 +102,28 @@ footer.footer
 .blog-list-item .featured-thumbnail
   flex-basis: 35%
   margin: 0 1.5em 0 0
+
+
+// tic-tac-toe
+.ttt-board
+  display: grid
+  grid-template-columns: repeat(3, 100px)
+  grid-template-rows: repeat(3, 100px)
+  gap: 5px
+  margin-top: 30px
+
+.ttt-cell
+  width: 100px
+  height: 100px
+  background-color: lightgray
+  border: 1px solid #000
+  display: flex
+  align-items: center
+  justify-content: center
+  font-size: 36px
+  cursor: pointer
+
+.ttt-button
+  margin-top: 20px
+  font-size: 16px
+  cursor: pointer

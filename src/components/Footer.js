@@ -35,6 +35,11 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
+                    <li>
+                      <Link className="navbar-item" to="/games">
+                        Games
+                      </Link>
+                    </li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
