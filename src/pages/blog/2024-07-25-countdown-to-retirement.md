@@ -4,7 +4,7 @@ title: Countdown to retirement
 date: 2024-07-24T20:36:00.000Z
 description: From old we site
 featuredpost: true
-featuredimage: https://garydohmeier.com/countdown-to-retirement/
+featuredimage: /img/img_0477.jpeg
 tags:
   - Retirement
 ---
