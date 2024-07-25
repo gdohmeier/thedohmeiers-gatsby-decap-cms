@@ -3,7 +3,7 @@ import uploadcare from 'decap-cms-media-library-uploadcare'
 
 import AboutPagePreview from './preview-templates/AboutPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
-import GamesPagePreview from './preview-templates/GamesPagePreview'
+import GamesPagePreview from './preview-templates/GamesPagePreview-old'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 
 CMS.registerMediaLibrary(uploadcare)
