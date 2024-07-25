@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: games-post
 title: A game of tic-tac-toe
 date: 2024-07-13T14:44:00.000Z
 description: A simple tic-tac-toe game with javascript.
