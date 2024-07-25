@@ -14,3 +14,6 @@ tags:
 I have moved from ghost cms to decap cms.  This way a local host is not needed to host the ghost content.  All of the sit is hosted in the cloud on netlify and in GitHub.
 
 My GitHub site code is [here](https://github.com/gdohmeier/thedohmeiers-gatsby-decap-cms/tree/main).   The site is built on the gatsby & decap starter template found [here](https://decapcms.org/docs/start-with-a-template/).  This site can also be run totally for free using gatsby, netlify, and GitHub - which is awesome.
+
+\
+A fun [animation](https://www.youtube.com/watch?v=iRIrk8xHhCM&t=22s).
