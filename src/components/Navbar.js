@@ -67,7 +67,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/decaporg/gatsby-plugin-decap-cms"
+              href="https://github.com/gdohmeier/thedohmeiers-gatsby-decap-cms"
               target="_blank"
               rel="noopener noreferrer"
             >
