@@ -2,7 +2,7 @@
 
 Site url: https://thedohmeiers.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05b41f8f-1c4e-4b7f-9072-4cbbb9a8377b/deploy-status)](https://app.netlify.com/sites/thedohmeiers/deploys)
 
 **Note:** The site uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
 

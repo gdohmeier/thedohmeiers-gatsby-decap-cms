@@ -10,7 +10,7 @@ export default class GamesIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/gamepic.png')`,
+            backgroundImage: `url('/img/gamepic.jpg')`,
           }}
         >
           <h1

@@ -11,15 +11,10 @@ tags:
 ---
 ![tic-tac-toe](/img/tic-tac-toe1.jpeg "A game of tic-tac-toe")
 
-# tic-tac-toe
+## tic-tac-toe
 
+I implemented a simple tic-tac-toe game with javascript that can be played within a web page. On 8/11/23 I updated the code with some simple ai to pick best move to make the game more difficult to win.
 
-<a href="/contact/tic-tac-toe"> click here for the game.</a>
+## Click [TIC-TACK-TOE](/contact/tic-tac-toe) for the game.
 
-In this post I implement a simple tic-tac-toe game with javascript that can be played within the page of the post...
-
-8/11/23 - I have updated the code with simple ai to pick best move to make the game more difficult.
-
-Repost to new site.
-
-Here is the game on the old site:  <https://garydohmeier.com/a-game-test/>
+I reposted the game to this new site. Here is a link to the game on the old site: <https://garydohmeier.com/a-game-test/>
