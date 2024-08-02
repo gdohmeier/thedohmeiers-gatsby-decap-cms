@@ -11,9 +11,13 @@ Gary's World is an independent publication launched in May 2023 by Gary Dohmeier
 
 Enjoying the experience? Get started for free and set up your very own site like this using this [github template site](https://github.com/decaporg/gatsby-starter-decap-cms). This site is edited on github and hosted on Netlify, free.
 
-`—————`
 
-***There is no subscription model at this point.  I hope to add this in the future.***
+
+
+
+`—————————————————————————————————————-`
+
+***There is no subscription model at this point.  I hope to add these features below in the future.***
 
 ### Access all areas
 
