@@ -4,7 +4,7 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 
-const RanchRollTemplate = (props) => {
+const GamesRollTemplate = (props) => {
   
   const { edges: posts } = props.data.allMarkdownRemark;
 
@@ -14,7 +14,7 @@ const RanchRollTemplate = (props) => {
         posts.map(({ node: post }) => (
           <div className="is-parent column is-6" key={post.id}>
             <article
-              className={`ranch-list-item tile is-child box notification ${
+              className={`game-list-item tile is-child box notification ${
                 post.frontmatter.featuredpost ? 'is-featured' : ''
               }`}
             >
@@ -59,7 +59,7 @@ const RanchRollTemplate = (props) => {
   )
 }
 
-RanchRoll.propTypes = {
+GamesRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -68,14 +68,14 @@ RanchRoll.propTypes = {
 }
 
 
-export default function RanchRoll() {
+export default function GamesRoll() {
   return (
     <StaticQuery
       query={graphql`
-        query RanchRollQuery {
+        query GamesRollQuery {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { templateKey: { eq: "ranch-post" } } }
+            filter: { frontmatter: { templateKey: { eq: "games-post" } } }
           ) {
             edges {
               node {
@@ -105,7 +105,7 @@ export default function RanchRoll() {
           }
         }
       `}
-      render={(data, count) => <RanchRollTemplate data={data} count={count} />}
+      render={(data, count) => <GamesRollTemplate data={data} count={count} />}
     />
   );
 }

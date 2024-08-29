@@ -2,8 +2,8 @@ import * as React from "react";
 
 import Layout from "../../components/Layout";
 import GamesRoll from "../../components/GamesRoll";
-dexP
-export default class GamesImage extends React.Component {
+
+export default class GamesIndexPage extends React.Component {
   render() {
     return (
       <Layout>
