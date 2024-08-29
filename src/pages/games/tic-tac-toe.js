@@ -190,23 +190,14 @@ export default function App() {
     }, []);
 
     return (
-        <Layout>
-            <section className="section">
-                <div className="container">
-                    <div className="content">
-                        <div>
-                            <h2>Tic-Tac-Toe</h2>
-                            <div ref={ref} class="ttt-board">
-                            </div>
-                            <p>
-                                ---
-                            </p>
-                            <button onClick={resetBoard}>Reset</button>
-                        </div>
-                    </div> 
-                </div>    
-            </section>
-        </Layout>
+        <div className="content">
+            <div>
+                <h2>Tic-Tac-Toe</h2>
+                <div ref={ref} class="ttt-board">
+                </div>
+                <button onClick={resetBoard}>Reset</button>
+            </div>
+        </div> 
     );
 }
 
