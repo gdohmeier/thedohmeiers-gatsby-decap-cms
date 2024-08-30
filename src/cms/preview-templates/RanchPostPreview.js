@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { RanchPostTemplate } from '../../templates/Ranch-post'
+import { RanchPostTemplate } from '../../templates/ranch-post'
 
 const RanchPostPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags'])
