@@ -51,6 +51,10 @@ const RanchRollTemplate = (props) => {
               <p>
                 {post.excerpt}
                 <br />
+                <br />
+                <Link className="button" to={post.fields.slug}>
+                  Keep Reading →
+                </Link>
               </p>
             </article>
           </div>
