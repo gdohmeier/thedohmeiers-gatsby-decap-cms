@@ -11,4 +11,4 @@ tags:
 ---
 I implemented a simple tic-tac-toe game with javascript that can be played within a web page. On 8/11/23 I updated the code with some simple ai to pick best move to make the game more difficult to win.
 
-**[tic-tac-toe game](games/tic-tac-toe/)**
+**[tic-tac-toe game](/games/tic-tac-toe/)**
