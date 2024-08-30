@@ -22,7 +22,7 @@ export default class RanchIndexPage extends React.Component {
               padding: "1rem",
             }}
           >
-            Latest Stories
+            A Gated Mess Farm
           </h1>
         </div>
         <section className="section">
