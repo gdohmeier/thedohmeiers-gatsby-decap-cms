@@ -190,14 +190,18 @@ export default function App() {
     }, []);
 
     return (
-        <div className="content">
-            <div>
-                <h2>Tic-Tac-Toe</h2>
-                <div ref={ref} class="ttt-board">
+        <section className="section">
+            <div className="container">
+                <div className="content">
+                    <div>
+                        <h2>Tic-Tac-Toe</h2>
+                        <div ref={ref} class="ttt-board">
+                        </div>
+                        <button onClick={resetBoard}>Reset</button>
+                    </div>
                 </div>
-                <button onClick={resetBoard}>Reset</button>
             </div>
-        </div> 
+        </section>
     );
 }
 
