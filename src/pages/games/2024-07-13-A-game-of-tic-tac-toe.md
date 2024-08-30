@@ -16,4 +16,3 @@ I implemented a simple tic-tac-toe game with javascript that can be played withi
 
 </p>
 <iframe src="/games/tic-tac-toe" style="width:400px; height:425px;"></iframe>
-
