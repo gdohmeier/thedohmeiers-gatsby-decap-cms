@@ -9,10 +9,6 @@ tags:
   - game
   - fun
 ---
-
 ## tic-tac-toe
 
 I implemented a simple tic-tac-toe game with javascript that can be played within a web page. On 8/11/23 I updated the code with some simple ai to pick best move to make the game more difficult to win.
-
-</p>
-<iframe src="/games/tic-tac-toe" style="width:400px; height:425px;"></iframe>
