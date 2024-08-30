@@ -10,7 +10,7 @@ export default class RanchIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/ranch-index.jpg')`,
+            backgroundImage: `url('/img/img_1278.jpg')`,
           }}
         >
           <h1
