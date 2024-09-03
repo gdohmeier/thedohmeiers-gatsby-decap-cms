@@ -14,7 +14,7 @@ The code for the countdown clock versions is in gitlab [here.](https://gitlab.co
 
 As of Sept 2024 I have updated this code (see below) to include a date picker so its more generic and you can set the date to countdown too.
 
-```javascript
+```html
 <!DOCTYPE html>
 <html>
 
@@ -146,4 +146,15 @@ As of Sept 2024 I have updated this code (see below) to include a date picker so
 
 </body>
 </html> 
+  
 ```
+
+
+
+
+
+## EXAMPLE
+
+`<iframe src="https://garydohmeier.com/countdown-to-retirement/" title="old-countdown"></iframe>`
+
+``
