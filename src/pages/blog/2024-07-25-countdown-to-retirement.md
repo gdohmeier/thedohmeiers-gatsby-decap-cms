@@ -16,12 +16,24 @@ As of Sept 2024 I have updated this code (see below) to include a date picker so
 
 
 ## EXAMPLE
+<p>.</p>
+<p>.</p>
 
-<div style="height=1800px">
-test
-<iframe src="https://gad-games.netlify.app/game3/" frameborder="0" style="overflow:hidden;height:100%;width:100%" height=500" width="100%" allowfullscreen></iframe>
+<div style="height: 100vh; position: relative;">
+  <iframe src="https://gad-games.netlify.app/game3/" style="height: 100%; width: 100%; border: 0;"></iframe>
 </div>
 
 
 <p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+.
+.
+.
+.
+.
+.
+.
 end
