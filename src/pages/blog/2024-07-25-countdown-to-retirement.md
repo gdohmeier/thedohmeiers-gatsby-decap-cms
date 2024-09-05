@@ -26,14 +26,6 @@ As of Sept 2024 I have updated this code (see below) to include a date picker so
 
 <p>.</p>
 <p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-.
-.
-.
-.
-.
-.
-.
+
+
 end
