@@ -30,8 +30,8 @@ We met TJ and others from ACTS.  We asked questions and met other people who wer
 
 Our tour through the property was pretty amazing as you can see from the pictures.  Ponds stocked with fish, trees and grasslands, and a decent gravel road that went through the entire property.  Simply beautiful!
 
-![Ranch house](/img/img_0718-medium.jpeg)
+![Ranch lake](/img/ranchlake.jpeg)
 
-![Ranch house](/img/img_0718-medium.jpeg)
+![Ranch road](/img/ranch-road.jpeg)
 
 I left for home with the thinking where do we go from here.?
