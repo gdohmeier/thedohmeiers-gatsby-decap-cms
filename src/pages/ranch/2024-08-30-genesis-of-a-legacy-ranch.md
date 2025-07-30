@@ -22,16 +22,16 @@ In October of 2023, my wife Sue showed me an Instagram post about getting 10 acr
 
 As we drove the hour and 45 minutes to the place, we were thinking- this seems like some “too good to be true” stuff, and we know how those normally end up.  But Samantha, Sue and I decided to take an adventure and check out this ACTs and see this with our own eyes.
 
-![Sue and Sam](/img/img/suesam.jpeg)
+![Sue and Sam](/img/suesam.jpeg)
 
 We met TJ and others from ACTS.  We asked questions and met other people who were also interested.  It was pretty amazing to see young and old, families, children, siblings, all looking to get out of the rat race.
 
-![ACTS people](img/img/actspeople.jpeg)
+![ACTS people](/img/actspeople.jpeg)
 
 Our tour through the property was pretty amazing as you can see from the pictures.  Ponds stocked with fish, trees and grasslands, and a decent gravel road that went through the entire property.  Simply beautiful!
 
-![Ranch lake](img/img/ranchlake.jpeg)
+![Ranch lake](/img/ranchlake.jpeg)
 
-![Ranch road](img/img/ranch-road.jpeg)
+![Ranch road](/img/ranch-road.jpeg)
 
 I left for home with the thinking where do we go from here.?
