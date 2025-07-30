@@ -20,7 +20,6 @@ In October of 2023, my wife Sue showed me an Instagram post about getting 10 acr
 ![Ranch house](/img/img_0718-medium.jpeg "Ranch house")
 
 
-
 As we drove the hour and 45 minutes to the place, we were thinking- this seems like some “too good to be true” stuff, and we know how those normally end up.  But Samantha, Sue and I decided to take an adventure and check out this ACTs and see this with our own eyes.
 
 Img SamSue
