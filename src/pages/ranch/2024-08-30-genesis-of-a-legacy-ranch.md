@@ -17,7 +17,9 @@ tags:
 
 In October of 2023, my wife Sue showed me an Instagram post about getting 10 acres of land, starting a farm and living off grid; I thought that sounds cool.  So I started following the Insta and visited the website actsdereal.com  wouldn’t you know it, there was also land coming available in central Florida.  I went to the website and filled out the Ranch calculator to get an estimate of the cost.  I also signed up for a property visit at Panoplia (Armor of God) Ranch for November 11th.
 
-Img ranch house
+
+
+![Ranch house](/img/img_0715.jpeg "Ranch house")
 
 As we drove the hour and 45 minutes to the place, we were thinking- this seems like some “too good to be true” stuff, and we know how those normally end up.  But Samantha, Sue and I decided to take an adventure and check out this ACTs and see this with our own eyes.
 
