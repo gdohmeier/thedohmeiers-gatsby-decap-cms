@@ -1,6 +1,6 @@
 ---
 templateKey: ranch-post
-title: A Gated Mess
+title: A Gated Mess - the beginning
 date: 2024-08-29T21:03:00.000Z
 description: The story begins in late 2023.  Don’t get discouraged, with all
   stories there are ups and downs, exiting developments and setback.  You will
