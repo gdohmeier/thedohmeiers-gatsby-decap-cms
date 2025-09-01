@@ -1,7 +1,7 @@
 ---
 templateKey: ranch-post
-title: A Gated Mess - the beginning
-date: 2024-08-29T21:03:00.000Z
+title: A Gated Mess - 11/2023
+date: 2023-11-01T10:00:00.000-04:00
 description: The story begins in late 2023. Don’t get discouraged; with all
   stories, there are ups and downs, exciting developments, and setbacks. You
   will be surprised by what God can do with a little faith and a lot of
