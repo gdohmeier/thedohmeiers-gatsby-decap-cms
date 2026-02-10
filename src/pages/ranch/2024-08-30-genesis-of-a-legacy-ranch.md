@@ -9,7 +9,7 @@ description: The story begins in late 2023. Don’t get discouraged; with all
   to build our house, but below is the story from the beginning in 2023. Oh, “A
   Gated Mess” is the name of our ranch.
 featuredpost: true
-featuredimage: /img/agatedmess320.jpg
+featuredimage: /img/img_1278.jpeg
 tags:
   - ranch
 ---
