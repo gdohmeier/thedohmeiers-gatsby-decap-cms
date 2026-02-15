@@ -40,10 +40,12 @@ intro:
   heading: My old site is being migrated here…
   description: >
     My old site garydohmeier.com is a from a jamstack ghost and gatsby
-    starter.  I am migrating it too this site which is jamstack gatsby and
+    starter.  I migrated it too this site which is jamstack gatsby and
     decapcms.  The old site required that I run and serve pages from my local
-    server (which was a pain); with this site every part is cloud based.  Also,
-    running this site is (currently) totally free!
+    server (which was a pain); with this site every part is cloud based.  
+
+
+    Also, running this site is (currently) totally free!
 main:
   heading: From coding to homesteading...
   image1:
