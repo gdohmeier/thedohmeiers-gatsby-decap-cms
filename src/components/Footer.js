@@ -43,12 +43,7 @@ const Footer = () => {
                       <Link className="navbar-item" to="/ranch">
                         Ranch
                       </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>                    
+                    </li>                 
                     <li>
                       <a
                         className="navbar-item"
