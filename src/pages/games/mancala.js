@@ -284,24 +284,25 @@ export default function Mancala() {
     }, []);
 
     return (
-        <section className="section">
-            <div className="container">
-                <div className="content">
-                    <div>
-                        <h2>Mancala</h2>
+        <Layout>
+            <section className="section">
+                <div className="container">
+                    <div className="content">
+                        <div>
+                            <h2>Mancala</h2>
 
-                        <div ref={boardRef} className="mancala-board">
-                            {/* board created in useEffect */}
+                            <div ref={boardRef} className="mancala-board">
+                                {/* board created in useEffect */}
+                            </div>
+
+                            <div className="status">{message}</div>
+
+                            <button onClick={resetGame}>Reset Game</button>
                         </div>
-
-                        <div className="status">{message}</div>
-
-                        <button onClick={resetGame}>Reset Game</button>
                     </div>
                 </div>
-            </div>
 
-            <style jsx>{`
+                <style jsx>{`
                 .mancala-board {
                     position: relative;
                     width: 620px;
@@ -403,6 +404,7 @@ export default function Mancala() {
                     background: #A0522D;
                 }
             `}</style>
-        </section>
+            </section>
+        </Layout>
     );
 }

@@ -20,6 +20,7 @@ export default function App() {
         window.location.reload(false);
     }
 
+/*
     function evaluateBoard() {
         const board = ref.current;
 
@@ -33,6 +34,7 @@ export default function App() {
         }
         return 0;
     }
+*/
 
     function checkWin(board, player) {
         const winningCombos = [
@@ -190,18 +192,20 @@ export default function App() {
     }, []);
 
     return (
-        <section className="section">
-            <div className="container">
-                <div className="content">
-                    <div>
-                        <h2>Tic-Tac-Toe</h2>
-                        <div ref={ref} class="ttt-board">
+        <Layout>
+            <section className="section">
+                <div className="container">
+                    <div className="content">
+                        <div>
+                            <h2>Tic-Tac-Toe</h2>
+                            <div ref={ref} className="ttt-board">
+                            </div>
+                            <button onClick={resetBoard}>Reset</button>
                         </div>
-                        <button onClick={resetBoard}>Reset</button>
                     </div>
                 </div>
-            </div>
-        </section>
+            </section>
+        </Layout>
     );
 }
 
