@@ -74,7 +74,7 @@ export default function GamesRoll() {
       query={graphql`
         query GamesRollQuery {
           allMarkdownRemark(
-            sort: { order: DESC, fields: [frontmatter___date] }
+            sort: {frontmatter: {date: DESC}}
             filter: { frontmatter: { templateKey: { eq: "games-post" } } }
           ) {
             edges {
