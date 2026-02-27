@@ -12,52 +12,58 @@ tags:
 
 ## 1 EG4 GridBOSS Power Gateway
 
-![Power gateway picture]( "Power gateway")
+![Power gateway picture]("power gateway")
 
 [Gridboss specs](https://eg4electronics.com/categories/inverters/eg4-gridboss/)
 
-
-
-
-
 ## 2 EG4® FlexBOSS21 Inverters
 
-![Inverter picture]('inverter pictue' "Inverter")
+![Inverter picture]("inverter")
 
 [FlexBOSS21 Inverters specs](https://eg4electronics.com/categories/inverters/eg4-flexboss-21/)
 
 ## 4 EG4® WallMount Indoor 280Ah Lithium Battery
 
-![Batteries picture](Lithium Battery "Batteries")
+![Batteries picture]("batteries")
 
 [EG4® WallMount Indoor 280Ah Lithium Battery](https://eg4electronics.com/categories/batteries/eg4-wallmount-indoor-280ah-lithium-battery/)
 
-## Panels: 40 - ZNShine Solar Panels\
-<https://km-solar.com/content/panels/znshine/pdf/zxm7-sh120.pdf>
+## Panels: 40 - ZNShine Solar Panels
 
----
+![Solar panels picture]("solar panels")
+
+[ZNShine Solar Panels](https://km-solar.com/content/panels/znshine/pdf/zxm7-sh120.pdf)
+
+- - -
+
 Cost solar power: $62000
 
-Joe Sidebottom, owner
+Subcontractor:
 SOLAR TECH
+Joe Sidebottom, owner
 863-381-5711
 joe@solartech.contractors
 
-- - -
+
+# Power Shed
 
 Shed: 10x12x7'8"
 Black& white painted
 Delivered & Installed, 140 mph rated
 
+- - -
 Cost Power Shed: $7085
 
-Kristen Piscopo
-443-800-4256
+Subcontractor:
 Florida Shed Outlet - FL
 United Portable Buildings - TX & MS
+Kristen Piscopo
+443-800-4256
 kristen@unitedportable.com
 
 - - -
+- - -
+
 
 Some additional Q & A:
 
