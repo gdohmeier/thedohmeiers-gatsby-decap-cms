@@ -20,8 +20,6 @@ tags:
 
 The EG4 GridBOSS beats every Microgrid Interconnect Device (MID) / power gateway on the market in terms of capabilities and ratings. The GridBOSS simplifies the design and operation of complex solar installations, reducing hardware costs and installation time.
 
-
-
 ## 2 EG4® FlexBOSS21 Inverters
 
 ![Inverter picture](https://eg4electronics.com/nitropack_static/SbBGCpCePLcXaRGwuXIMyVzcABRhrYXs/assets/images/optimized/rev-40d1cad/eg4electronics.com/wp-content/uploads/2025/09/EG4-FlexBOSS21-Front-1.webp "Flexboss21 Inverter")
@@ -31,8 +29,6 @@ The EG4 GridBOSS beats every Microgrid Interconnect Device (MID) / power gateway
 ### Description
 
 The EG4 GridBOSS beats every Microgrid Interconnect Device (MID) / power gateway on the market in terms of capabilities and ratings. The GridBOSS simplifies the design and operation of complex solar installations, reducing hardware costs and installation time.
-
-
 
 ## 4 EG4® WallMount Indoor 280Ah Lithium Battery
 
@@ -44,8 +40,6 @@ The EG4 GridBOSS beats every Microgrid Interconnect Device (MID) / power gateway
 
 Whether you’re aiming to reduce costs or achieve grid independence, the EG4 WallMount Indoor Battery is a great choice. This battery provides 14.3 kWh of storage capacity for indoor applications and a maximum continuous output of 200A. The battery’s integrated self-heating feature makes it an excellent option for unheated indoor environments and its LCD screen allows you to easily monitor and control the battery.  
 
-
-
 ## Panels: 40 - ZNShine Solar Panels
 
 ![Solar panels picture](https://ussolarsupplier.com/cdn/shop/files/Picture10.png?v=1712758586 "Solar panels")
@@ -54,24 +48,16 @@ Whether you’re aiming to reduce costs or achieve grid independence, the EG4 Wa
 
 ### Description
 
-**Excellent Cell Efficiency** MBB technology reduces the distance between busbars and finger grid lines, which benefits power increase.
-
-**Bifacial Technology**: Achieve up to 25% additional power gain from the rear side of the panel, depending on surface reflectivity (albedo). This can provide up to an extra 113W of power under optimal conditions.
-
-**Better Weak Illumination Response** More power output in weak light conditions, such as haze, cloudy, and early morning.
-
-
+Excellent Cell Efficiency MBB technology reduces the distance between busbars and finger grid lines, which benefits power increase. Bifacial Technology: Achieve up to 25% additional power gain from the rear side of the panel, depending on surface reflectivity (albedo). This can provide up to an extra 113W of power under optimal conditions. Better Weak Illumination Response More power output in weak light conditions, such as haze, cloudy, and early morning.
 
 ### Cost solar power: $62000
 
 ### Subcontractor:
 
-SOLAR TECH
-Joe Sidebottom, owner
-863-381-5711
-joe@solartech.contractors
-
-
+* SOLAR TECH
+* Joe Sidebottom, owner
+* 863-381-5711
+* joe@solartech.contractors
 
 - - -
 
@@ -79,29 +65,25 @@ joe@solartech.contractors
 
 # Power Shed
 
-
-
 ![Shed picture](/img/img_0069_20251107_144616.jpeg "Power shed")
 
 [Florida Shed Outlet](https://floridashedoutlet.com/)
 
 ### Description
 
-Shed: 10x12x7'8"
+Gable Shed: 10x12x7'8"
 Black& white painted
 Delivered & Installed, 140 mph rated
-
-This section for description.
 
 ### Cost Power Shed: $7085
 
 ### Subcontractor:
 
-Florida Shed Outlet - FL
-United Portable Buildings - TX & MS
-Kristen Piscopo
-443-800-4256
-kristen@unitedportable.com
+* Florida Shed Outlet - FL
+* United Portable Buildings - TX & MS
+* Kristen Piscopo
+* 443-800-4256
+* kristen@unitedportable.com
 
 - - -
 
