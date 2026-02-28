@@ -28,7 +28,8 @@ The EG4 GridBOSS beats every Microgrid Interconnect Device (MID) / power gateway
 
 ### Description
 
-The EG4 GridBOSS beats every Microgrid Interconnect Device (MID) / power gateway on the market in terms of capabilities and ratings. The GridBOSS simplifies the design and operation of complex solar installations, reducing hardware costs and installation time.
+The EG4 FlexBOSS21 is a split phase, all-in-one, hybrid inverter designed for the residential and small commercial markets. With a 21kW usable PV (DC) input, the FlexBOSS21 provides high power output, generating 12kW of AC power during non-sunlight conditions and a full 16kW AC with solar PV gain. It is a powerful and versatile inverter which can feed-through 90 Amps of utility power from the grid at 120/240 VAC.
+
 
 ## 4 EG4® WallMount Indoor 280Ah Lithium Battery
 
